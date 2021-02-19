@@ -1,0 +1,6 @@
+export const LogoImg = require('./logo.png')
+export const QRCodeScanImg = require('./qr-code-scan.png')
+export const QRCodeImg = require('./qr-code.png')
+export const CompleteImg = require('./approval-symbol-in-badge.png')
+export const CardImg = require('./card.png')
+export const QRLogoImg = require('./ic_launcher.png')

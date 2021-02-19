@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "977699320680",
+    "project_id": "chiplusgo-95ec4",
+    "storage_bucket": "chiplusgo-95ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977699320680:android:c75d52d50632eef8681cdd",
+        "android_client_info": {
+          "package_name": "com.example.chiplusgo_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977699320680-87okq7oe5u7nbt0uu7alm3brtifg3v77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chiplusgo_client",
+            "certificate_hash": "8c67b628f49c9940794b7587c6d236ab002e8f1f"
+          }
+        },
+        {
+          "client_id": "977699320680-a2i9aoks4ftsevtqig4dnonfboschdsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chiplusgo_client",
+            "certificate_hash": "785987a8b57527f2ca1149ebd83d9298d15aa0de"
+          }
+        },
+        {
+          "client_id": "977699320680-dj1l4oc5d1lgr71ol652v0oe7av7kto9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jkEVgN9RN7So-wzeCz7IVmeoLEl70xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977699320680-dj1l4oc5d1lgr71ol652v0oe7av7kto9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977699320680:android:1047858e7be2e2ba681cdd",
+        "android_client_info": {
+          "package_name": "com.infinet.infishare_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977699320680-d19hcuidht69m219kba7uqal9o0etvpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinet.infishare_client",
+            "certificate_hash": "785987a8b57527f2ca1149ebd83d9298d15aa0de"
+          }
+        },
+        {
+          "client_id": "977699320680-gbgdomu3rs8itmj6404ujbbko3prnveq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinet.infishare_client",
+            "certificate_hash": "8c67b628f49c9940794b7587c6d236ab002e8f1f"
+          }
+        },
+        {
+          "client_id": "977699320680-dj1l4oc5d1lgr71ol652v0oe7av7kto9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jkEVgN9RN7So-wzeCz7IVmeoLEl70xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977699320680-dj1l4oc5d1lgr71ol652v0oe7av7kto9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977699320680:android:7c4872f18de683c1681cdd",
+        "android_client_info": {
+          "package_name": "com.merchandiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977699320680-dj1l4oc5d1lgr71ol652v0oe7av7kto9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jkEVgN9RN7So-wzeCz7IVmeoLEl70xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977699320680-dj1l4oc5d1lgr71ol652v0oe7av7kto9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
